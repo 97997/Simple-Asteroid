@@ -7,6 +7,7 @@ switch(mpos)
     }
     case 1:
     {
+        show_message("Wow");
         break;
     }
     case 3:
